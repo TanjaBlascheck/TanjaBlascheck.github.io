@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: Home
@@ -29,8 +28,3 @@ title: Home
       <a href="https://scholar.google.de/citations?user=-MKDCgIAAAAJ&hl=de&oi=ao" class="badge">🎓 Google Scholar</a>
       <a href="mailto:research@blascheck.eu" class="badge">✉️ Contact</a>
 </div>
-=======
-layout: page
-title: "Tanja Blascheck"
-permalink: /
->>>>>>> 3e9ae5ad41a4aa55a27ce852e3db48e9caf8f48c
